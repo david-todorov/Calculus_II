@@ -1,2 +1,2 @@
 # Calculus_II and Stochastic
-University exercises for Calculus II
+University exercises for Calculus II and Stochastic
